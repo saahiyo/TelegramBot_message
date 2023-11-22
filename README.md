@@ -1,4 +1,4 @@
-🚀 **Telegram Bot Messenger Project**
+# 🚀 Telegram Bot Messenger Project 
 
 Welcome to the Telegram Bot Messenger project repository! 🌐✉️
 
