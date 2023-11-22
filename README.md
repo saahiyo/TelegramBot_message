@@ -22,7 +22,7 @@ This project showcases a user-friendly interface for interacting with a Telegram
 - JavaScript
 
 ### Demo:
-Explore the live demo [here](saahiyo.github.io/telegrambot_message/).
+Explore the live demo [here](https://saahiyo.github.io/TelegramBot_message/).
 
 ### Contributing:
 Contributions are welcome! Feel free to fork the repository and submit pull requests for enhancements or bug fixes.
