@@ -12,7 +12,7 @@ This project showcases a user-friendly interface for interacting with a Telegram
 
 ### How to Use:
 1. Clone the repository.
-2. open script.js file edit and enter your bot token and your chatId
+2. open `script.js` file edit and enter your bot token and your chatId
 3. Open the `index.html` file in your preferred web browser.
 4. Enter your message and click "Send Message" to communicate with the Telegram bot.
 
@@ -22,7 +22,7 @@ This project showcases a user-friendly interface for interacting with a Telegram
 - JavaScript
 
 ### Demo:
-Explore the live demo [here](#).
+Explore the live demo [here](saahiyo.github.io/telegrambot_message/).
 
 ### Contributing:
 Contributions are welcome! Feel free to fork the repository and submit pull requests for enhancements or bug fixes.
